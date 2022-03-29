@@ -34,7 +34,7 @@ public class DataTypesAndVariables {
         double height = 180.55;
 
 //        Типи даних поділяються на дві групи:
-//        Примітивні типи даних - включає byte, short, int, long, float, double, booleanіchar
+//        Примітивні типи даних - включає byte, short, int, long, float, double, boolean і char
 //        Непримітивні типи даних, такі як String, Arrays and Classes
 
 //        Непримітивні типи даних називаються опорними типами, оскільки вони посилаються на об’єкти
